@@ -36,7 +36,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="3" />
-          <entry key="py" value="15" />
+          <entry key="py" value="17" />
           <entry key="sqlite3" value="1" />
         </counts>
       </usages-collector>
@@ -44,19 +44,19 @@
         <counts>
           <entry key="HTML" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="503" />
-          <entry key="py" value="2157" />
+          <entry key="py" value="3406" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="503" />
-          <entry key="Python" value="2157" />
+          <entry key="Python" value="3406" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -86,27 +86,39 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Instagram/app/posts/views.py">
+        <entry file="file://$PROJECT_DIR$/Instagram/app/posts/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+            <state relative-caret-position="435">
+              <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Instagram/app/posts/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
               <folding>
-                <element signature="e#0#57#0" expanded="true" />
-                <marker date="1540445526817" expanded="true" signature="2040:2045" ph="..." />
+                <element signature="e#0#24#0" expanded="true" />
+                <marker date="1540447345784" expanded="true" signature="1780:1785" ph="..." />
+                <marker date="1540447345784" expanded="true" signature="1780:2349" ph="..." />
+                <marker date="1540447345784" expanded="true" signature="2051:2056" ph="..." />
+                <marker date="1540447345784" expanded="true" signature="2384:2385" ph="..." />
+                <marker date="1540447345784" expanded="true" signature="2384:2389" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Instagram/app/posts/forms.py">
+        <entry file="file://$PROJECT_DIR$/Instagram/app/posts/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+            <state relative-caret-position="293">
+              <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
               <folding>
-                <element signature="e#0#24#0" expanded="true" />
-                <marker date="1540445645801" expanded="true" signature="1783:1784" ph="..." />
-                <marker date="1540445645801" expanded="true" signature="1783:1788" ph="..." />
+                <element signature="e#0#57#0" expanded="true" />
+                <marker date="1540448419593" expanded="true" signature="2423:2428" ph="..." />
               </folding>
             </state>
           </provider>
@@ -121,9 +133,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Instagram/app/posts/urls.py" />
-        <option value="$PROJECT_DIR$/Instagram/app/posts/views.py" />
         <option value="$PROJECT_DIR$/Instagram/app/templates/posts/post_list.html" />
         <option value="$PROJECT_DIR$/Instagram/app/posts/forms.py" />
+        <option value="$PROJECT_DIR$/Instagram/app/posts/views.py" />
       </list>
     </option>
   </component>
@@ -254,7 +266,7 @@
     <frame x="0" y="23" width="1280" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -330,13 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Instagram/app/posts/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Instagram/app/members/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
@@ -347,14 +352,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Instagram/app/posts/views.py">
+    <entry file="file://$PROJECT_DIR$/Instagram/app/templates/posts/post_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#57#0" expanded="true" />
-            <marker date="1540445526817" expanded="true" signature="2040:2045" ph="..." />
-          </folding>
+        <state relative-caret-position="307">
+          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="43" />
         </state>
       </provider>
     </entry>
@@ -368,21 +369,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Instagram/app/templates/posts/post_list.html">
+    <entry file="file://$PROJECT_DIR$/Instagram/app/posts/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="35" column="35" lean-forward="true" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="43" />
+        <state relative-caret-position="435">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Instagram/app/posts/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+        <state relative-caret-position="268">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
           <folding>
             <element signature="e#0#24#0" expanded="true" />
-            <marker date="1540445645801" expanded="true" signature="1783:1784" ph="..." />
-            <marker date="1540445645801" expanded="true" signature="1783:1788" ph="..." />
+            <marker date="1540447345784" expanded="true" signature="1780:1785" ph="..." />
+            <marker date="1540447345784" expanded="true" signature="1780:2349" ph="..." />
+            <marker date="1540447345784" expanded="true" signature="2051:2056" ph="..." />
+            <marker date="1540447345784" expanded="true" signature="2384:2385" ph="..." />
+            <marker date="1540447345784" expanded="true" signature="2384:2389" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Instagram/app/posts/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+            <marker date="1540448419593" expanded="true" signature="2423:2428" ph="..." />
           </folding>
         </state>
       </provider>
