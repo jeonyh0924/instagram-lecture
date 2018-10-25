@@ -3,9 +3,13 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/django-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-tutorial-practice" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/djangogirls-tutorial" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/djangogirls-tutorial-practice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/document" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/document-copy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/instagram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/instagram-copy/Instagram" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/webtoon" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/webtoon-practice" vcs="Git" />
   </component>
