@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cddb0bed-ecdf-46c3-bcac-aea7ba9cb821" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../instagram-contender/app/posts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../instagram-contender/app/templates/posts/post_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../django-tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../django-tutorial" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../django-tutorial-practice" beforeDir="false" afterPath="$PROJECT_DIR$/../django-tutorial-practice" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../djangogirls-tutorial" beforeDir="false" afterPath="$PROJECT_DIR$/../djangogirls-tutorial" afterDir="false" />
@@ -11,17 +9,38 @@
       <change beforePath="$PROJECT_DIR$/../document" beforeDir="false" afterPath="$PROJECT_DIR$/../document" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../document-copy" beforeDir="false" afterPath="$PROJECT_DIR$/../document-copy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../instagram" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/.idea/instagram-contender.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/.idea/instagram-contender.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/config/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/config/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/config/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/members/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/members/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/members/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/posts/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/posts/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../instagram-contender/app/posts/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/.idea/instagram-contender.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/User/www11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/members/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/post/resource-56.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/posts/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instagram-contender/app/templates/posts/post_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Instagram" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Instagram/app/config/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram/app/config/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Instagram/app/posts/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Instagram/app/posts/forms.py" afterDir="false" />
@@ -42,7 +61,7 @@
     <session id="-2091918930">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="1" />
@@ -66,16 +85,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="524" />
-          <entry key="py" value="4881" />
+          <entry key="py" value="5386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="524" />
-          <entry key="Python" value="4881" />
+          <entry key="Python" value="5386" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
@@ -92,13 +112,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Instagram/app/posts/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="70" column="60" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+            <state relative-caret-position="257">
+              <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1540755733268" expanded="true" signature="1330:1331" ph="..." />
-                <marker date="1540755733268" expanded="true" signature="1330:1339" ph="..." />
-                <marker date="1540755733268" expanded="true" signature="1574:1583" ph="..." />
+                <marker date="1540758236212" expanded="true" signature="1914:2068" ph="..." />
+                <marker date="1540758236212" expanded="true" signature="2181:2190" ph="..." />
               </folding>
             </state>
           </provider>
@@ -256,7 +275,7 @@
     <frame x="0" y="23" width="1280" height="710" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1736672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1736672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -269,7 +288,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.20064725" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2815534" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Database" />
@@ -388,13 +407,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Instagram/app/posts/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="70" column="60" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
+        <state relative-caret-position="257">
+          <caret line="70" column="41" selection-start-line="70" selection-start-column="41" selection-end-line="70" selection-end-column="41" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1540755733268" expanded="true" signature="1330:1331" ph="..." />
-            <marker date="1540755733268" expanded="true" signature="1330:1339" ph="..." />
-            <marker date="1540755733268" expanded="true" signature="1574:1583" ph="..." />
+            <marker date="1540758236212" expanded="true" signature="1914:2068" ph="..." />
+            <marker date="1540758236212" expanded="true" signature="2181:2190" ph="..." />
           </folding>
         </state>
       </provider>
