@@ -2,23 +2,24 @@ from django.db import models
 
 from members.models import User
 
+
 class Post(models.Model):
     author = models.ForeignKey(
-        'User',
+        User,
         on_delete=models.CASCADE,
     )
     photo = models.ImageField(
-        upload_to='Post'
+        upload_to='post'
     )
 
 
 class Comment(models.Model):
     post = models.ForeignKey(
-        'Post',
+        Post,
         on_delete=models.CASCADE,
     )
     author = models.ForeignKey(
-        'User',
+        User,
         on_delete=models.CASCADE,
     )
     content = models.TextField(
